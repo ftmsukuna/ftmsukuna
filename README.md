@@ -4,7 +4,7 @@
 
 
 <p align="center">⠀⠀ ⠀
-⠀⠀⠀⠀⠀⠀ ⠀ ⠀⠀⠀ ⠀⠀⠀ ⠀⠀⠀⠀   ⠀⠀ ⠀<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/342b90db-e50d-4d89-8edf-b81d3b60da3c" />⠀
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/342b90db-e50d-4d89-8edf-b81d3b60da3c" />⠀
 </p>
 
 
